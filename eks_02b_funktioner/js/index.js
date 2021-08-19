@@ -3,4 +3,14 @@ document.addEventListener("DOMContentLoaded", () => {
 
 	// skriv din kode her...
 
+	
+	function hils (navn){
+	console.log(`Hej med dig ${navn}`);
+	}
+
+
+	hils("Brad")
+	hils("Chad")
+	hils("Thad")
+
 }); // Afslutter: DOMContentLoaded
